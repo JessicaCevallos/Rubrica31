@@ -17,7 +17,13 @@ public class TareaDeIngenieria2 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Bienvenidos");
+  int valor1=0;
+  int valor2=0;
+  
+        System.out.println("Ingresar el primer valor");
+        
+        System.out.println("Ingresar el segundo valor");
+ 
     }
     
 }
